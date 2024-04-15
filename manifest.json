@@ -2,8 +2,8 @@
   "author": "Han",
   "minAppVersion": "1.5.0",
   "name": "neovim-edit",
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "description": "This plugin allows you to seamlessly use NeoVim to edit your notes within Obsidian",
-  "id": "nvim-edit",
+  "id": "neovim-edit",
   "isDesktopOnly": true
 }

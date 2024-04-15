@@ -6,7 +6,7 @@ const path = require("path");
 class TerminalPlugin extends Plugin {
 	async onload() {
 		this.addCommand({
-			id: "nvim-edit",
+			id: "neovim-edit",
 			name: "neovim-edit",
 			hotkeys: [
 			  {
